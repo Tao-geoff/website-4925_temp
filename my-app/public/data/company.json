@@ -1,0 +1,163 @@
+{
+  "companyInfo": {
+    "name": "贸易制造业",
+    "foundedYear": 2006,
+    "headquarters": "日本东京",
+    "employees": "100-500人",
+    "industry": "电子产品、汽车配件和工业设备制造"
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "创新技术，卓越品质",
+    "description": "贸易制造业 成立于2005年，是一家专注于高品质电子产品、汽车配件和工业设备的制造商。多年来，我们始终致力于技术创新和品质提升，为全球客户提供最优质的产品和服务。\n\n我们的研发团队由经验丰富的工程师和设计师组成，不断探索新技术和新材料，将最新的创新应用到我们的产品中。我们的生产设施采用先进的自动化设备和严格的质量控制流程，确保每一件产品都达到最高标准。\n\n我们的业务遍布亚洲、欧洲和北美，与多家知名企业建立了长期合作关系。我们相信，只有通过不断创新和追求卓越，才能在竞争激烈的市场中保持领先地位。",
+    "image": "/images/company/about-us.jpg"
+  },
+  "vision": {
+    "title": "我们的愿景",
+    "description": "成为全球领先的创新型企业，通过先进技术和卓越品质，为客户创造价值，为社会做出贡献。",
+    "image": "/images/company/vision.jpg"
+  },
+  "mission": {
+    "title": "我们的使命",
+    "description": "通过不断创新和精益求精，为客户提供最优质的产品和服务，满足并超越他们的期望。",
+    "image": "/images/company/mission.jpg"
+  },
+  "values": [
+    {
+      "title": "创新",
+      "description": "我们鼓励创新思维，不断探索新技术和新方法，推动行业发展。",
+      "icon": "lightbulb"
+    },
+    {
+      "title": "品质",
+      "description": "我们坚持最高的品质标准，确保每一件产品都经过严格的质量控制。",
+      "icon": "shield"
+    },
+    {
+      "title": "诚信",
+      "description": "我们以诚信为本，在所有业务关系中保持透明和负责任的态度。",
+      "icon": "handshake"
+    },
+    {
+      "title": "团队合作",
+      "description": "我们相信团队的力量，鼓励合作与知识共享，共同实现目标。",
+      "icon": "users"
+    },
+    {
+      "title": "客户至上",
+      "description": "我们以客户需求为中心，致力于提供超越期望的产品和服务。",
+      "icon": "heart"
+    },
+    {
+      "title": "可持续发展",
+      "description": "我们关注环境保护和社会责任，致力于可持续发展的业务模式。",
+      "icon": "leaf"
+    }
+  ],
+  "history": {
+    "title": "公司历程",
+    "description": "了解贸易制造业 的发展历程和重要里程碑。",
+    "milestones": [
+      {
+        "year": 2005,
+        "title": "公司成立",
+        "description": "贸易制造业 在东京成立，开始研发和生产LED照明产品。"
+      },
+      {
+        "year": 2008,
+        "title": "业务扩展",
+        "description": "公司扩展业务范围，开始涉足汽车配件领域。"
+      },
+      {
+        "year": 2010,
+        "title": "国际化发展",
+        "description": "公司开始向亚洲其他国家和地区出口产品，迈出国际化第一步。"
+      },
+      {
+        "year": 2013,
+        "title": "研发中心成立",
+        "description": "在横滨设立研发中心，加强技术研发和创新能力。"
+      },
+      {
+        "year": 2015,
+        "title": "进军欧洲市场",
+        "description": "公司产品进入欧洲市场，并在德国设立销售办事处。"
+      },
+      {
+        "year": 2018,
+        "title": "工业设备部门成立",
+        "description": "成立工业设备部门，开始研发和生产工业自动化设备。"
+      },
+      {
+        "year": 2020,
+        "title": "数字化转型",
+        "description": "启动数字化转型战略，提升生产效率和客户服务质量。"
+      },
+      {
+        "year": 2023,
+        "title": "全球业务扩展",
+        "description": "在北美设立分公司，将业务扩展到全球主要市场。"
+      }
+    ]
+  },
+  "team": {
+    "title": "管理团队",
+    "description": "我们的管理团队由经验丰富的专业人士组成，致力于引领公司不断发展和创新。",
+    "members": [
+      {
+        "name": "山田健太",
+        "position": "首席执行官",
+        "bio": "山田健太先生拥有超过20年的行业经验，曾在多家知名企业担任高管职务。他于2005年创立贸易制造业 ，并一直致力于公司的发展和创新。",
+        "image": "/images/team/yamada.jpg"
+      },
+      {
+        "name": "铃木真理",
+        "position": "首席技术官",
+        "bio": "铃木真理女士拥有电子工程博士学位，是LED技术领域的专家。她领导公司的研发团队，不断推动技术创新和产品开发。",
+        "image": "/images/team/suzuki.jpg"
+      },
+      {
+        "name": "田中直树",
+        "position": "首席运营官",
+        "bio": "田中直树先生在制造业和供应链管理方面拥有丰富经验。他负责公司的日常运营，确保生产效率和产品质量。",
+        "image": "/images/team/tanaka.jpg"
+      },
+      {
+        "name": "李明",
+        "position": "市场营销总监",
+        "bio": "李明先生在国际市场营销领域拥有丰富经验。他负责公司的市场战略和品牌建设，推动业务在全球市场的发展。",
+        "image": "/images/team/li.jpg"
+      },
+      {
+        "name": "佐藤美咲",
+        "position": "财务总监",
+        "bio": "佐藤美咲女士是一位经验丰富的财务专家，负责公司的财务管理和战略规划，确保公司的财务健康和可持续发展。",
+        "image": "/images/team/sato.jpg"
+      }
+    ]
+  },
+  "facilities": {
+    "title": "我们的设施",
+    "description": "我们的生产和研发设施采用最先进的技术和设备，确保产品的高品质和创新性。",
+    "items": [
+      {
+        "name": "总部大楼",
+        "location": "东京",
+        "description": "我们的总部位于东京，包括行政办公室、销售团队和客户服务中心。",
+        "image": "/images/company/headquarters.jpg"
+      },
+      {
+        "name": "研发中心",
+        "location": "横滨",
+        "description": "我们的研发中心配备最先进的实验室和测试设备，由经验丰富的工程师和设计师组成。",
+        "image": "/images/company/rd-center.jpg"
+      },
+      {
+        "name": "生产工厂",
+        "location": "千叶",
+        "description": "我们的生产工厂采用自动化生产线和严格的质量控制流程，确保产品的一致性和可靠性。",
+        "image": "/images/company/factory.jpg"
+      }
+    ]
+  }
+} 

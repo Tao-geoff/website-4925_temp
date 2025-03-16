@@ -1,0 +1,96 @@
+{
+  "hero": {
+    "title": "贸易制造业",
+    "subtitle": "创新科技，卓越品质",
+    "description": "我们致力于为客户提供高质量的产品和服务，满足您的各种需求。",
+    "ctaText": "了解更多",
+    "ctaLink": "/company"
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "高品质产品",
+      "description": "我们提供最优质的产品，保证每一个细节都经过精心设计和严格测试。",
+      "icon": "shield"
+    },
+    {
+      "id": 2,
+      "title": "专业服务",
+      "description": "我们的团队拥有丰富的经验和专业知识，为您提供最优质的服务。",
+      "icon": "tool"
+    },
+    {
+      "id": 3,
+      "title": "创新技术",
+      "description": "我们不断探索新技术，将最新的创新应用到我们的产品和服务中。",
+      "icon": "truck"
+    }
+  ],
+  "aboutSection": {
+    "title": "关于我们",
+    "description": "贸易制造业成立于2005年，是一家专注于技术创新和产品开发的公司。我们的使命是为客户提供最高质量的产品和服务，帮助他们实现业务目标。",
+    "image": "/images/company/office.jpg",
+    "ctaText": "了解更多",
+    "ctaLink": "/company"
+  },
+  "popularProducts": [
+    {
+      "id": 1,
+      "name": "LED头灯",
+      "description": "高亮度LED头灯，适用于各种车型。",
+      "image": "/images/products/led-headlight-1.jpg",
+      "link": "/product/led-headlight"
+    },
+    {
+      "id": 2,
+      "name": "智能传感器",
+      "description": "高精度智能传感器，适用于多种场景。",
+      "image": "/images/products/smart-sensor-1.jpg",
+      "link": "/product/smart-sensor"
+    },
+    {
+      "id": 3,
+      "name": "工业控制器",
+      "description": "高性能工业控制器，适用于自动化系统。",
+      "image": "/images/products/industrial-controller-1.jpg",
+      "link": "/product/industrial-controller"
+    },
+    {
+      "id": 4,
+      "name": "汽车电子控制单元",
+      "description": "高性能汽车ECU，提供精确的发动机控制。",
+      "image": "/images/products/car-ecu.jpg",
+      "link": "/product/car-ecu"
+    },
+    {
+      "id": 5,
+      "name": "汽车电子控制单元",
+      "description": "高性能汽车ECU，提供精确的发动机控制。",
+      "image": "/images/products/car-ecu.jpg",
+      "link": "/product/car-ecu"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "text": "贸易制造业 的产品质量非常出色，他们的服务团队专业且响应迅速。我们很高兴能与他们合作。",
+      "author": "陶某某",
+      "position": "ABC公司总经理",
+      "image": "/images/testimonials/client1.jpg"
+    },
+    {
+      "id": 2,
+      "text": "作为长期合作伙伴，我们对贸易制造业 的创新能力和产品质量非常满意。他们总是能够满足我们的需求。",
+      "author": "华某某",
+      "position": "XYZ企业CEO",
+      "image": "/images/testimonials/client2.jpg"
+    },
+    {
+      "id": 3,
+      "text": "作为长期合作伙伴，我们对贸易制造业 的创新能力和产品质量非常满意。他们总是能够满足我们的需求。",
+      "author": "华某某",
+      "position": "XYZ企业CEO",
+      "image": "/images/testimonials/client2.jpg"
+    }
+  ]
+} 

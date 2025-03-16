@@ -1,0 +1,100 @@
+{
+  "title": "联系我们",
+  "subtitle": "我们期待听到您的声音",
+  "description": "无论您有任何问题、建议或合作意向，都欢迎与我们联系。我们的团队将尽快回复您的询问。",
+  "contactInfo": {
+    "address": "日本东京都新宿区西新宿1-1-1 ABC大厦10楼",
+    "phone": "+81-3-1234-5678",
+    "email": "info@valentijapan.com",
+    "workingHours": "周一至周五: 9:00 - 18:00 (日本标准时间)"
+  },
+  "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.7380454662437!2d139.6892521!3d35.6905663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd0d6b1ba1f%3A0x1c0a476e0fa96872!2z5paw5a6_5Yy6!5e0!3m2!1sja!2sjp!4v1677565128016!5m2!1sja!2sjp",
+  "form": {
+    "title": "发送消息",
+    "description": "填写以下表单，我们将尽快与您联系。",
+    "fields": [
+      {
+        "id": "name",
+        "label": "姓名",
+        "type": "text",
+        "placeholder": "请输入您的姓名",
+        "required": true,
+        "errorMessage": "请输入您的姓名"
+      },
+      {
+        "id": "email",
+        "label": "电子邮件",
+        "type": "email",
+        "placeholder": "请输入您的电子邮件地址",
+        "required": true,
+        "errorMessage": "请输入有效的电子邮件地址"
+      },
+      {
+        "id": "phone",
+        "label": "电话号码",
+        "type": "tel",
+        "placeholder": "请输入您的电话号码",
+        "required": false
+      },
+      {
+        "id": "subject",
+        "label": "主题",
+        "type": "text",
+        "placeholder": "请输入消息主题",
+        "required": true,
+        "errorMessage": "请输入消息主题"
+      },
+      {
+        "id": "message",
+        "label": "消息内容",
+        "type": "textarea",
+        "placeholder": "请输入您的消息内容",
+        "required": true,
+        "errorMessage": "请输入消息内容"
+      }
+    ],
+    "submitButton": "发送消息",
+    "successMessage": "感谢您的消息！我们将尽快回复您。"
+  },
+  "officeLocations": [
+    {
+      "name": "日本总部",
+      "address": "日本东京都新宿区西新宿1-1-1 ABC大厦10楼",
+      "phone": "+81-3-1234-5678",
+      "email": "tokyo@valentijapan.com"
+    },
+    {
+      "name": "中国代表处",
+      "address": "中国上海市浦东新区陆家嘴环路1000号XX大厦15楼",
+      "phone": "+86-21-5678-1234",
+      "email": "shanghai@valentijapan.com"
+    },
+    {
+      "name": "欧洲办事处",
+      "address": "德国慕尼黑市中心区工业大道123号",
+      "phone": "+49-89-1234-5678",
+      "email": "munich@valentijapan.com"
+    }
+  ],
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      {
+        "question": "如何获取产品目录？",
+        "answer": "您可以通过我们的网站下载最新的产品目录，或者发送电子邮件至info@valentijapan.com申请。"
+      },
+      {
+        "question": "产品保修期是多久？",
+        "answer": "我们的产品标准保修期为1年，部分高端产品提供2-3年保修。详细信息请参考产品说明书或联系我们的客户服务团队。"
+      },
+      {
+        "question": "如何成为贸易制造业 的代理商？",
+        "answer": "如果您有兴趣成为我们的代理商，请发送电子邮件至partnership@valentijapan.com，我们的业务发展团队将与您联系。"
+      },
+      {
+        "question": "提供定制产品服务吗？",
+        "answer": "是的，我们提供产品定制服务。请联系我们的销售团队，详细说明您的需求，我们将为您提供解决方案。"
+      }
+    ]
+  }
+} 

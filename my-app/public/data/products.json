@@ -1,0 +1,117 @@
+{
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "电子产品",
+      "description": "高品质电子产品，包括LED灯具、电路板和传感器等。",
+      "image": "/images/products/electronics-category.jpg"
+    },
+    {
+      "id": "automotive",
+      "name": "汽车配件",
+      "description": "专业汽车配件，包括灯具、控制器和传感器等。",
+      "image": "/images/products/automotive-category.jpg"
+    },
+    {
+      "id": "industrial",
+      "name": "工业设备",
+      "description": "高品质工业设备，适用于各种工业场景。",
+      "image": "/images/products/industrial-category.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "led-headlight",
+      "categoryId": "automotive",
+      "name": "LED头灯",
+      "shortDescription": "高亮度LED头灯，适用于各种车型。",
+      "fullDescription": "我们的LED头灯采用最新的LED技术，提供卓越的亮度和耐用性。这些头灯设计用于各种车型，安装简便，能够显著提高夜间驾驶的可见度和安全性。每个头灯都经过严格测试，确保最高质量和性能。",
+      "features": [
+        "超高亮度LED灯泡",
+        "防水防尘设计",
+        "长寿命，高达50,000小时",
+        "低功耗，高效率",
+        "简易安装，适配多种车型"
+      ],
+      "specs": {
+        "功率": "35W",
+        "电压": "12V-24V DC",
+        "亮度": "4000流明",
+        "色温": "6500K",
+        "防水等级": "IP67",
+        "工作温度": "-40°C至85°C"
+      },
+      "images": [
+        "/images/products/led-headlight-1.jpg",
+        "/images/products/led-headlight-2.jpg",
+        "/images/products/led-headlight-3.jpg"
+      ],
+      "mainImage": "/images/products/led-headlight-1.jpg",
+      "price": "¥12,800",
+      "isFeatured": true,
+      "isNew": true
+    },
+    {
+      "id": "smart-sensor",
+      "categoryId": "electronics",
+      "name": "智能传感器",
+      "shortDescription": "高精度智能传感器，适用于多种场景。",
+      "fullDescription": "我们的智能传感器采用先进的传感技术，提供高精度的环境数据收集能力。这些传感器可以用于家庭、办公室和工业环境，帮助监控温度、湿度、光线和空气质量等参数。每个传感器都经过精细校准，确保读数准确可靠。",
+      "features": [
+        "多参数监测（温度、湿度、光线、空气质量）",
+        "高精度传感元件",
+        "低功耗设计",
+        "支持无线连接（Wi-Fi/蓝牙）",
+        "智能手机APP控制和监控"
+      ],
+      "specs": {
+        "测量范围（温度）": "-20°C至60°C",
+        "测量范围（湿度）": "0-100% RH",
+        "精度（温度）": "±0.3°C",
+        "精度（湿度）": "±2% RH",
+        "电源": "5V DC或锂电池",
+        "电池寿命": "长达12个月"
+      },
+      "images": [
+        "/images/products/smart-sensor-1.jpg",
+        "/images/products/smart-sensor-2.jpg",
+        "/images/products/smart-sensor-3.jpg"
+      ],
+      "mainImage": "/images/products/smart-sensor-1.jpg",
+      "price": "¥6,500",
+      "isFeatured": true,
+      "isNew": false
+    },
+    {
+      "id": "industrial-controller",
+      "categoryId": "industrial",
+      "name": "工业控制器",
+      "shortDescription": "高性能工业控制器，适用于自动化系统。",
+      "fullDescription": "我们的工业控制器采用最新的处理技术，为自动化系统提供强大的计算和控制能力。这些控制器设计用于各种工业环境，能够承受恶劣条件，提供可靠的性能。每个控制器都配备了多种接口，可以轻松集成到现有系统中。",
+      "features": [
+        "高性能处理器",
+        "多种通信接口（RS-485、CAN、以太网）",
+        "强固耐用设计",
+        "支持多种工业协议",
+        "可扩展模块化设计"
+      ],
+      "specs": {
+        "处理器": "ARM Cortex-A9，1.2GHz",
+        "内存": "2GB DDR3",
+        "存储": "32GB eMMC",
+        "接口": "4×RS-485, 2×CAN, 2×以太网, 8×数字输入, 8×数字输出",
+        "电源": "24V DC",
+        "工作温度": "-20°C至70°C"
+      },
+      "images": [
+        "/images/products/industrial-controller-1.jpg",
+        "/images/products/industrial-controller-2.jpg",
+        "/images/products/industrial-controller-3.jpg"
+      ],
+      "mainImage": "/images/products/industrial-controller-1.jpg",
+      "price": "¥38,000",
+      "isFeatured": false,
+      "isNew": true
+    }
+  ]
+} 

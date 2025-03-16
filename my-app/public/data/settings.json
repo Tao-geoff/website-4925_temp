@@ -1,0 +1,143 @@
+{
+  "siteInfo": {
+    "name": "贸易制造业",
+    "logo": "/images/company/logo.png",
+    "favicon": "/favicon.ico",
+    "description": "贸易制造业  - 创新科技，卓越品质"
+  },
+  "contactInfo": {
+    "email": "info@valentijapan.com",
+    "phone": "+86 15198585326",
+    "address": "日本东京都新宿区西新宿1-1-1 ABC大厦10楼",
+    "workingHours": "周一至周五: 9:00 - 18:00"
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/valentijapan",
+    "twitter": "https://twitter.com/valentijapan",
+    "linkedin": "https://linkedin.com/company/valentijapan",
+    "instagram": "https://instagram.com/valentijapan"
+  },
+  "navigation": {
+    "header": [
+      {
+        "title": "首页",
+        "path": "/"
+      },
+      {
+        "title": "产品",
+        "path": "/products",
+        "submenu": [
+          {
+            "title": "电子产品",
+            "path": "/products/electronics"
+          },
+          {
+            "title": "汽车配件",
+            "path": "/products/automotive"
+          },
+          {
+            "title": "工业设备",
+            "path": "/products/industrial"
+          }
+        ]
+      },
+      {
+        "title": "关于我们",
+        "path": "/about",
+        "submenu": [
+          {
+            "title": "公司介绍",
+            "path": "/about/company"
+          },
+          {
+            "title": "团队成员",
+            "path": "/about/team"
+          },
+          {
+            "title": "企业文化",
+            "path": "/about/culture"
+          }
+        ]
+      },
+      {
+        "title": "支持服务",
+        "path": "/services",
+        "submenu": [
+          {
+            "title": "技术支持",
+            "path": "/services/support"
+          },
+          {
+            "title": "售后服务",
+            "path": "/services/after-sales"
+          },
+          {
+            "title": "常见问题",
+            "path": "/services/faq"
+          }
+        ]
+      },
+      {
+        "title": "招聘信息",
+        "path": "/careers"
+      },
+      {
+        "title": "联系我们",
+        "path": "/contact"
+      }
+    ],
+    "footer": [
+      {
+        "title": "产品",
+        "links": [
+          {
+            "title": "电子产品",
+            "path": "/products/electronics"
+          },
+          {
+            "title": "汽车配件",
+            "path": "/products/automotive"
+          },
+          {
+            "title": "工业设备",
+            "path": "/products/industrial"
+          }
+        ]
+      },
+      {
+        "title": "公司",
+        "links": [
+          {
+            "title": "关于我们",
+            "path": "/about"
+          },
+          {
+            "title": "团队成员",
+            "path": "/about/team"
+          },
+          {
+            "title": "招聘信息",
+            "path": "/careers"
+          }
+        ]
+      },
+      {
+        "title": "服务",
+        "links": [
+          {
+            "title": "技术支持",
+            "path": "/services/support"
+          },
+          {
+            "title": "常见问题",
+            "path": "/services/faq"
+          },
+          {
+            "title": "联系我们",
+            "path": "/contact"
+          }
+        ]
+      }
+    ]
+  }
+} 
